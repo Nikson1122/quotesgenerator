@@ -1,3 +1,4 @@
+//javascript
 const quotes = [
     { text: "Be the change you wish to see in the world.", author: "Mahatma Gandhi", category: "inspiration" },
     { text: "The only way to do great work is to love what you do.", author: "Steve Jobs", category: "inspiration" },
